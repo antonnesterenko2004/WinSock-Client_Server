@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1636887948 source:c:\users\pavilion\desktop\coursework\client\main.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<winsock2.h>
+
+1638013544 source:c:\users\nesterenko\desktop\coursework_backup\client\main.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<winsock2.h>
+
+1638129215 source:c:\users\nesterenko\desktop\coursework\client\main.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<winsock2.h>
+
+1638380129 source:c:\users\nesterenko\desktop\Курсач\coursework\client\main.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<winsock2.h>
+
+1638999642 source:c:\users\vasilenkoden\codeblocs\client\main.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<windows.h>
+	<winsock2.h>
+
+1638999642 source:c:\users\nesterenko\desktop\Готовая курсовая\client\main.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+	<windows.h>
+	<winsock2.h>
+
